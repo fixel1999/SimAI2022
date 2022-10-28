@@ -4,7 +4,7 @@
 Félix Daniel Acosta Rodríguez 
  
 ## Repositorio
-[Aquí] (https://github.com/fixel1999/SimAI2022) puedes encontrar el código fuente del proyecto.
+[Aquí](https://github.com/fixel1999/SimAI2022) puedes encontrar el código fuente del proyecto.
 
 ## Descripción
 Dada la, cada vez más compleja, situación con el transporte urbano se propone, mediante un estudio de las diferentes variables que influyen en el sistema, simular las principales rutas de transporte en La Habana.
